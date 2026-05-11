@@ -1,4 +1,4 @@
-baseURL = "https://yourdomain.com"
+baseURL = "https://my-blog-or-something-else.vercel.app/"
 title = "Yao的博客"
 theme = "PaperMod"
 defaultContentLanguage = "zh"
